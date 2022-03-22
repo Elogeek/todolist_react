@@ -1,0 +1,20 @@
+.TodoItem {
+    background-color: hsla(0,0%,100%,.1);
+    margin-top: 2rem;
+    width: 68vw;
+}
+
+.list_item {
+    background-color: #fff;
+    display: flex;
+    margin-bottom: 1rem;
+    width: 60vw;
+    justify-content: space-between;
+}
+
+.list_item p:first-child {
+    color: #828282;
+    margin: 1rem;
+    padding: .5rem;
+    text-align: left;
+}

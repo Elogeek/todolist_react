@@ -1,0 +1,24 @@
+.Icons {
+    background-color: #fff;
+    opacity: .5;
+}
+
+.Icons {
+    padding: 1rem;
+}
+
+.iCheck,.iEdit, .Icons:last-child {
+    margin-right: 1rem;
+}
+
+.Icons .iCheck {
+    color: #95d6b7;
+}
+
+.Icons .iEdit {
+    color: #45bfe7;
+}
+
+.Icons:last-child {
+   color: #dc5350;
+}
