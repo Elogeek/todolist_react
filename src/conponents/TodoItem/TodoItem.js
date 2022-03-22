@@ -11,7 +11,8 @@ export const TodoItem = function (props) {
                 </p>
                 <Icons/>
             </div>
-
+            <div className="lineHorizontal"></div>
         </div>
+
     );
 }

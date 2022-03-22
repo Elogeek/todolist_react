@@ -18,3 +18,9 @@
     padding: .5rem;
     text-align: left;
 }
+
+.lineHorizontal {
+    border-bottom: 1px solid #828282;
+    width: 86%;
+    margin: 1rem;
+}
