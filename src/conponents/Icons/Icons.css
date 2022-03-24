@@ -1,24 +1,40 @@
-.Icons {
-    background-color: #fff;
-    opacity: .5;
+.editList {
+    display: none;
+    margin-left: 10px;
 }
 
-.Icons {
-    padding: 1rem;
+#containerEditList:nth-child(*) {
+    margin-left: 15px;
 }
 
-.iCheck,.iEdit, .Icons:last-child {
-    margin-right: 1rem;
+input {
+    border: 1px solid #e7e7e7;
 }
 
-.Icons .iCheck {
-    color: #95d6b7;
+.button {
+    background-color: transparent;
+    color: #489CC1;
+    border: none;
+    margin: 0 5px;
+    font-size: 20px;
 }
 
-.Icons .iEdit {
-    color: #45bfe7;
+.button:hover {
+    color: black;
 }
 
-.Icons:last-child {
-   color: #dc5350;
+.edit, .delete {
+    border: none;
+    color: #489cc1;
+    background-color: transparent;
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.edit:hover, .delete:hover {
+    color: black;
+}
+
+.Icons div:first-child {
+    margin-left: 7rem;
 }

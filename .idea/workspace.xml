@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ecaaea-5f32-4b04-ac06-9bd0aa5d8efe" name="Changes" comment="start project todolist with react">
-      <change beforePath="$PROJECT_DIR$/src/conponents/TodoItem/TodoItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/TodoItem/TodoItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conponents/TodoItem/TodoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/TodoItem/TodoItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/App/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/Container/Container.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/Container/Container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/Container/Container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/Container/Container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/Icons/Icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/Icons/Icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/Icons/Icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/Icons/Icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/Todo/Todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/List/List.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/Todo/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/List/List.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/TodoItem/TodoItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/ListItem/ListItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conponents/TodoItem/TodoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/conponents/ListItem/ListItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +66,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647952688393</updated>
-      <workItem from="1647952699004" duration="10767000" />
+      <workItem from="1647952699004" duration="11074000" />
+      <workItem from="1648028838559" duration="35000" />
+      <workItem from="1648029940897" duration="30000" />
+      <workItem from="1648111881710" duration="22223000" />
     </task>
     <task id="LOCAL-00001" summary="start project todolist with react">
       <created>1647963375657</created>
@@ -64,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647963375657</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start project todolist with react">
+      <created>1647963990137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647963990137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start project todolist with react" />

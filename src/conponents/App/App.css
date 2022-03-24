@@ -9,9 +9,18 @@ html {
 }
 
 body {
-  background-color: #99d6f0;
+  background-color: #489cc1;
   font-family: Roboto,sans-serif;
   font-size: 2rem;
   width: 100%;
 }
 
+.container_confetti  h3 {
+  text-align: left;
+  color: #fff;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: flex-start;
+  margin-top: -67rem;
+  padding-left: 46px;
+}

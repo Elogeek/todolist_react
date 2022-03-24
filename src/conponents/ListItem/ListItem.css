@@ -1,0 +1,33 @@
+.ListItem {
+    border-bottom: 1px solid #489CC1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+}
+
+.ListItem:nth-child(odd) {
+    background-color:#caecfa;
+    display: flex;
+    align-items: center;
+}
+
+.ListItem:nth-child(2n) {
+    background-color: #F0F9FF;
+}
+
+input[type="checkbox"] {
+    border: 1px solid #489CC1;
+}
+
+.nameList {
+    color: #62CAF1;
+    margin-top: -2rem;
+    margin-left: 3rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.line_through {
+    text-decoration: line-through;
+}

@@ -1,0 +1,39 @@
+.todo {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.List {
+    background-color: #fff;
+    margin: 100px auto;
+    padding: 20px 40px;
+}
+
+.tasks, #remove {
+    border: 1px solid #e7e7e7;
+    padding: 8px;
+    text-align: center;
+    width: 40%;
+    margin-top: 50px;
+    font-size: 18px;
+    margin-right: 10%;
+    color: #68666B;
+}
+
+#remove {
+    background-color: #489CC1;
+    border: none;
+    color: white;
+    margin-right: 0;
+    margin-left: 10%;
+}
+
+.List div:last-child {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tasks span {
+    font-weight: bold;
+}

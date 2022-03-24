@@ -10,7 +10,8 @@
     text-transform: uppercase;
     top: 3rem;
     text-align: center;
-    color: #333;
+    color: white;
+    text-decoration-line: underline;
 }
 
 .Container div:first-child {
@@ -28,10 +29,18 @@
     height: 3.5rem;
 }
 
-.Container input[type="submit"] {
+.Container input, .Container button[type="submit"]:focus {
+    border: 1px solid #489cc1;
+}
+
+.Container button[type="submit"] {
     border-radius: 0 .8rem .8rem 0;
+    border: 1px solid #99d6f0;
     color: #489cc1;
+    background: #99d6f0;
     margin-bottom: 2rem;
     margin-top: 1rem;
     width: 8rem;
+    height: 33px;
+    font-size: 20px;
 }
